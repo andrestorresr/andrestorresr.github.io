@@ -1,2 +1,7 @@
-// Variable de arreglos de productos
-Let;
+productList.addEventListener('click', e => {
+
+    console.log(e);
+
+
+
+});
