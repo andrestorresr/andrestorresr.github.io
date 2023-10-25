@@ -7,11 +7,11 @@
     box-sizing: border-box;
 }
 
-.Logo{
+.logo{
     display: flex;
 }
 
-.Logo img{
+.logo img{
     height: 70px;
     margin-right: 25px;
 }
